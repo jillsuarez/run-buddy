@@ -79,6 +79,7 @@ section {
     background-position: center;
     position: relative;
 }
+/* End Hero Style Start*/
 
 .hero-form {
     background-color: #fce138;
@@ -121,4 +122,4 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
-/* End Hero Style Start*/
+
